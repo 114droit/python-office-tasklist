@@ -1,12 +1,12 @@
-# **Aufgabenliste**
+# Aufgabenliste
 
 Python Programm zum erstellen einer 'todo-list'.
 
-## **Funktionen**
+## Funktionen
 
-    * Hinzufügen einer Aufgabe
-    * Hinzufügen eines Fälligkeitsdatums
-    * Anzeigen der Aufgabenliste
-    * Beenden des Programms
+* Hinzufügen einer Aufgabe
+* Hinzufügen eines Fälligkeitsdatums
+* Anzeigen der Aufgabenliste
+* Beenden des Programms
 
 ## How to use
