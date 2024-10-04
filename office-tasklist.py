@@ -37,4 +37,5 @@ def main ():
             break
         else:
             print("\nKeine gültige Eingabe. Bitte wähle 1,2 oder 3!")
-main ()
+if __name__ == "__main__":
+    main()
